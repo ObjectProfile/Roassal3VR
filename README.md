@@ -2,7 +2,7 @@
 
 ```Smalltalk
 Metacello new
-    baseline: 'AgileArtificialIntelligence';
+    baseline: 'Roassal3VR';
     repository: 'github://ObjectProfile/Roassal3VR/src';
     load.
 ```   
